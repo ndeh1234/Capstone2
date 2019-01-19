@@ -1,4 +1,4 @@
-import random       #Import random module
+import random       #Imports random module
 min = 1             #Set minimum value of dice
 max = 6              #Set Maximum value of dice
 
